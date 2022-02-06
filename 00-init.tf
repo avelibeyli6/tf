@@ -3,3 +3,4 @@ provider "aws" {
   shared_credentials_file = "C:/Users/mancunian/.aws/creds"
   profile = "default"
 }
+
